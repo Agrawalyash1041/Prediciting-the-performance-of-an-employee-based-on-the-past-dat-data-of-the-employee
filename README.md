@@ -2,10 +2,11 @@
 
 # Outline 
 ---
-* [Problem Statement](https://github.com/Agrawalyash1041/Predicting-the-performance-of-an-employee-based-on-the-past-data-of-the-employee/Problem-Statement)
-* [Data Description]
-* [Tasks Performed]
-* [Prerequisites](https://github.com/Agrawalyash1041/Laptop-Price-Predictor#prerequisites)
+* [Problem Statement](https://github.com/Agrawalyash1041/Predicting-the-performance-of-an-employee-based-on-the-past-data-of-the-employee#Problem-Statement)
+* [Data Description](https://github.com/Agrawalyash1041/Predicting-the-performance-of-an-employee-based-on-the-past-data-of-the-employee#Data-Description)
+* [Tasks Performed](https://github.com/Agrawalyash1041/Predicting-the-performance-of-an-employee-based-on-the-past-data-of-the-employee#Tasks-Performed)
+* [Models Used](https://github.com/Agrawalyash1041/Predicting-the-performance-of-an-employee-based-on-the-past-data-of-the-employee#Models-Used)
+* [Prerequisites](https://github.com/Agrawalyash1041/Predicting-the-performance-of-an-employee-based-on-the-past-data-of-the-employee#Problem-Statement#prerequisites)
 
 
 # Problem Statement
